@@ -1,2 +1,2 @@
-# pseudomonas_notebook
-A notebook that presents the bioinformatic methods used by the Pseudomonas paper.
+# A comparative genomic analysis of Pseudomonas aeruginosa strains isolated from oil-contaminates environments in Peru (Script Report)
+This is a notebook that makes the scripts for this paper available.
