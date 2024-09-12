@@ -1,0 +1,10 @@
+name: pseudomonas-environment
+channels:
+  - defaults
+  - bioconda
+dependencies:
+  - python=3.9
+  - ipykernel
+  - pyani
+  - pip:
+    - jupyter
