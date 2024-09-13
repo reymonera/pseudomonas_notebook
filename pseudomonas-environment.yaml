@@ -2,9 +2,12 @@ name: pseudomonas-environment
 channels:
   - defaults
   - bioconda
+  - conda-forge
 dependencies:
   - python=3.9
   - ipykernel
   - pyani
+  - ncbi-datasets-cli
   - pip:
     - jupyter
+    - rpy2
