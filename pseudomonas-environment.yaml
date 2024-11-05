@@ -8,6 +8,8 @@ dependencies:
   - ipykernel
   - pyani
   - ncbi-datasets-cli
+  - raxml
+  - r-devtools
   - pip:
     - jupyter
     - rpy2
