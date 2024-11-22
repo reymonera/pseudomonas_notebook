@@ -3,13 +3,14 @@ channels:
   - defaults
   - bioconda
   - conda-forge
+  - r
 dependencies:
-  - python=3.9
   - ipykernel
   - pyani
   - ncbi-datasets-cli
   - raxml
   - r-devtools
+  - r-pheatmap
   - pip:
     - jupyter
     - rpy2
