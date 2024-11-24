@@ -6,11 +6,17 @@ channels:
   - r
 dependencies:
   - ipykernel
+  - matplotlib
+  - upsetplot
+  - pandas
   - pyani
   - ncbi-datasets-cli
   - raxml
   - r-devtools
   - r-pheatmap
+  - r-ape
+  - bioconductor-ggtree
+  - modeltest-ng
   - pip:
     - jupyter
     - rpy2
